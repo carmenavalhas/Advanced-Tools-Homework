@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 {
-  font-size: 48px;
+  font-size: 38px;
 }
 
 h3 {
@@ -71,7 +71,7 @@ p {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
-  font-size: 28px;
+  font-size: 22px;
   text-decoration: none;
 }
 
